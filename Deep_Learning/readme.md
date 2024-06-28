@@ -1,1 +1,1 @@
-- 2022. 06. 28. Evaluation Metric
+- \[2024.06.28\]Evaluation Metric
