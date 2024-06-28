@@ -6,5 +6,5 @@
   - FB15k-237
     
 ## Graph Algorithm
-- The concepts of 'Sparcity' and 'Density' of the graphs
+- **\[2024.06.19\]** The concepts of 'Sparcity' and 'Density' of the graphs
 - 
