@@ -4,3 +4,5 @@
 4. **\[2024.07.04\]** ReasoningLM: Enabling Structural Subgraph Reasoning in Pre-trained Language Models for Question Answering over Knowledge Graph
 5. **\[2024.07.08\]** Retrieve-Rewrite-Answer: A KG-to-Text Enhanced LLMs Framework for Knowledge Graph Question Answering
 6. **\[2024.07.10\]** Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning
+7. **\[2024.07.20\]** A Knowledge-Injected Curriculum Pretraining Framework for Question Answering
+
