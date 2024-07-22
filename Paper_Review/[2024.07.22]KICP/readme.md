@@ -1,0 +1,1 @@
+*Lin, X., Su, T., Huang, Z., Xue, S., Liu, H., & Chen, E*. (2024). **A Knowledge-Injected Curriculum Pretraining Framework for Question Answering**. WWW 2024, [https://arxiv.org/abs/2403.09712](https://arxiv.org/abs/2403.09712)
