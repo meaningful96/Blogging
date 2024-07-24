@@ -5,4 +5,4 @@
 5. **\[2024.07.08\]** Retrieve-Rewrite-Answer: A KG-to-Text Enhanced LLMs Framework for Knowledge Graph Question Answering
 6. **\[2024.07.10\]** Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning
 7. **\[2024.07.20\]** A Knowledge-Injected Curriculum Pretraining Framework for Question Answering\[KICP\]
-
+8. **\[2024.07.25\]** DynaSemble: Dynamic Ensembling of Textual and Structure-Based Models for Knowledge Graph Completion
