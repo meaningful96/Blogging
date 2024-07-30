@@ -6,3 +6,4 @@
 6. **\[2024.07.10\]** Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning
 7. **\[2024.07.20\]** A Knowledge-Injected Curriculum Pretraining Framework for Question Answering \[KICP\]
 8. **\[2024.07.25\]** DynaSemble: Dynamic Ensembling of Textual and Structure-Based Models for Knowledge Graph Completion
+9. **\[2024.07.31\]** Interactive-KBQA: Multi-Turn Interactions for Knowledge Base Question Answering with LLMs
