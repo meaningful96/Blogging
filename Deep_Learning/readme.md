@@ -1,1 +1,2 @@
 - **\[2024.06.29\]** Evaluation Metric -> Revision
+- **\[2024.08.21\]** NLP/BoW.py 
