@@ -1,0 +1,1 @@
+*Xiong, G., Bao, J., & Zhao, W*. (2024, February 23). **Interactive-KBQA: Multi-Turn Interactions for Knowledge Base Question Answering with Large Language Models**. arXiv.org. [https://arxiv.org/abs/2402.15131](https://arxiv.org/abs/2402.15131)
