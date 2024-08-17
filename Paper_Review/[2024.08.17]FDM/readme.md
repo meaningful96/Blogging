@@ -1,0 +1,1 @@
+*Xiao Long, Liansheng Zhuang, Aodi Li, Houqiang Li, and Shafei Wang*. 2024. [**Fact embedding through 197 diffusion model for knowledge graph completion**](https://dl.acm.org/doi/abs/10.1145/3589334.3645451). In Proceedings of the ACM on Web Conference 2024, WWW ’24, page 2020–2029, New York, NY, USA.Association for Computing Machinery
