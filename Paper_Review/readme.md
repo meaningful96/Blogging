@@ -7,3 +7,4 @@
 7. **\[2024.07.20\]** A Knowledge-Injected Curriculum Pretraining Framework for Question Answering \[KICP\]
 8. **\[2024.07.25\]** DynaSemble: Dynamic Ensembling of Textual and Structure-Based Models for Knowledge Graph Completion
 9. **\[2024.08.02\]** Interactive-KBQA: Multi-Turn Interactions for Knowledge Base Question Answering with LLMs
+10. **\[2024.08.17\]** Fact Embedding through Diffusion Model for Knowledge Graph Completion
