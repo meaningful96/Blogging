@@ -1,0 +1,1 @@
+*Rongzhi Zhu, Xiangyu Liu, Zequn Sun, Yiwei Wang, and Wei Hu**. “[**Mitigating Lost-in-Retrieval Problems in Retrieval Augmented Multi-Hop Question Answering**](https://arxiv.org/abs/2502.14245).” In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, ACL 2025.
