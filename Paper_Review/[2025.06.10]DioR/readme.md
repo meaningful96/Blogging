@@ -1,0 +1,1 @@
+*Hanghui Guo, Jia Zhu, Shimin Di, Weijie Shi, Zhangze Chen, and Jiajie Xu*. “[**DioR: Adaptive Cognitive Detection and Contextual Retrieval Optimization for Dynamic Retrieval-Augmented Generation**](https://arxiv.org/pdf/2504.10198).” In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, ACL 2025.
