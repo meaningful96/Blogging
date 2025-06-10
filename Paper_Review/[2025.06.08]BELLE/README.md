@@ -1,0 +1,1 @@
+*Taolin Zhang, Dongyang Li, Qizhou Chen, Chengyu Wang, and Xiaofeng He*. “[**BELLE: A Bi-Level Multi-Agent Reasoning Framework for Multi-Hop Question Answering.**](https://arxiv.org/abs/2505.11811)” In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, ACL 2025.
