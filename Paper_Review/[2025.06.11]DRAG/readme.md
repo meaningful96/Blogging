@@ -1,0 +1,1 @@
+*Wentao Hu, Wengyu Zhang, Yiyang Jiang, Chen Jason Zhang, Xiaoyong Wei, and Qing Li*. “[**Removal of Hallucination on Hallucination: Debate-Augmented RAG**](https://arxiv.org/abs/2505.18581).” In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, ACL 2025.
