@@ -1,0 +1,1 @@
+*Jiashuo Sun, Xianrui Zhong, Sizhe Zhou, and Jiawei Han*. “[**DynamicRAG: Leveraging Outputs of Large Language Model as Feedback for Dynamic Reranking in Retrieval-Augmented Generation**](https://arxiv.org/abs/2505.07233).” In arXiv preprint arXiv:2505.07233 [cs.CL], May 2025.
