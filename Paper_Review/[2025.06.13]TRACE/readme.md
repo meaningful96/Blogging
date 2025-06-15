@@ -1,0 +1,1 @@
+*Jinyuan Fang, Zaiqiao Meng, and Craig MacDonald*. “[**TRACE the Evidence: Constructing Knowledge-Grounded Reasoning Chains for Retrieval-Augmented Generation**](https://aclanthology.org/2024.findings-emnlp.496/).” In Findings of the Association for Computational Linguistics: EMNLP 2024, pages 8472–8494, Miami, Florida, USA.
