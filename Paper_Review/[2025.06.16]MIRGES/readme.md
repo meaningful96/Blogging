@@ -1,0 +1,1 @@
+*Keheng Wang, Feiyu Duan, Peiguang Li, Sirui Wang, and Xunliang Cai**. “[**LLMs Know What They Need: Leveraging a Missing Information Guided Framework to Empower Retrieval-Augmented Generation**](https://aclanthology.org/2025.coling-main.163/).” In Proceedings of the 31st International Conference on Computational Linguistics, pages 2379–2400, Abu Dhabi, UAE, January 2025.
