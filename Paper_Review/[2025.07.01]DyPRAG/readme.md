@@ -1,1 +1,1 @@
-*Yuqiao Tan, Shizhu He, Huanxuan Liao, Jun Zhao, and Kang Liu**. “[**Dynamic Parametric Retrieval Augmented Generation for Test-time Knowledge Enhancement**](https://arxiv.org/abs/2503.23895).” In arXiv preprint arXiv:2503.23895 [cs.CL], March.
+*Yuqiao Tan, Shizhu He, Huanxuan Liao, Jun Zhao, and Kang Liu*. “[**Dynamic Parametric Retrieval Augmented Generation for Test-time Knowledge Enhancement**](https://arxiv.org/abs/2503.23895).” In arXiv preprint arXiv:2503.23895 [cs.CL], March.
