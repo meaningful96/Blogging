@@ -1,1 +1,1 @@
-*Qiaoyu Tang, Jiawei Chen, Zhuoqun Li, et al*. **Self-Retrieval: End-to-End Information Retrieval with One Large Language Model**. In *Advances in Neural Information Processing Systems (NeurIPS)*, 2024. arXiv:2403.00801.
+*Qiaoyu Tang, Jiawei Chen, Zhuoqun Li, et al*. **[Self-Retrieval: End-to-End Information Retrieval with One Large Language Model](https://arxiv.org/abs/2403.00801)**. In *Advances in Neural Information Processing Systems (NeurIPS)*, 2024. arXiv:2403.00801.
