@@ -1,0 +1,1 @@
+*Bowen Jin, Jinsung Yoon, Jiawei Han, and Sercan O. Arik*. 2025. [Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG](https://arxiv.org/abs/2410.05983). In Proceedings of the International Conference on Learning Representations (ICLR 2025). International Conference on Learning Representations.
