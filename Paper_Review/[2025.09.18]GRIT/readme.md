@@ -1,0 +1,1 @@
+*Niklas Muennighoff, Hongjin Su, Liang Wang, Nan Yang, Furu Wei, Tao Yu, Amanpreet Singh, and Douwe Kiela*. 2025. [**Generative Representational Instruction Tuning**](https://arxiv.org/abs/2402.09906). arXiv:2402.09906 [cs.CL] https://arxiv.org/abs/2402.09906
