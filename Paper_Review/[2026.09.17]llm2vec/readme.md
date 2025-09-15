@@ -1,0 +1,1 @@
+*Parishad BehnamGhader, Vaibhav Adlakha, Marius Mosbach, Dzmitry Bahdanau, Nicolas Chapados, and Siva Reddy*. 2024. [*LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders**](https://arxiv.org/abs/2404.05961). arXiv:2404.05961 [cs.CL] https://arxiv.org/abs/2404.05961
