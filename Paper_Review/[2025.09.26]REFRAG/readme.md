@@ -1,0 +1,1 @@
+*Xiaoqiang Lin, Aritra Ghosh, Bryan Kian Hsiang Low, Anshumali Shrivasava, and Vijai Mohan*. 2025. [**REFRAG: Rethinking RAG based Decoding**](https://arxiv.org/abs/2509.01092). arXiv:2509.01092 [cs.CL] https://arxiv.org/abs/2509.01092
