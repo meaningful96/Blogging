@@ -1,0 +1,1 @@
+*Jiashuo Sun, Shixuan Liu, Zhaochen Su, Xianrui Zhong, Pengcheng Jiang, Bowen Jin, Peiran Li, Weijia Shi, and Jiawei Han*. 2025. [**GRACE: Generative Representation Learning via Contrastive Policy Optimization**](https://arxiv.org/abs/2510.04506).
