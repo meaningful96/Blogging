@@ -1,1 +1,0 @@
-*Yunlong Zhao, Haoran Wu, and Bo Xu*. 2025. [**Leveraging Attention to Effectively Compress Prompts for Long-Context LLMs**](https://ojs.aaai.org/index.php/AAAI/article/view/34800). Proceedings of the AAAI Conference on Artificial Intelligence 39, 24 (Apr. 2025), 26048–26056. https://doi.org/10.1609/aaai.v39i24.34800
