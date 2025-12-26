@@ -1,0 +1,1 @@
+Wenbing Li, Zikai Song, Hang Zhou, Yunyao Zhang, Junqing Yu, and Wei Yang. 2025. [LoRA-Mixer: Coordinate Modular LoRA Experts Through Serial Attention Routing]([https://arxiv.org/abs/2507.00029](https://arxiv.org/abs/2507.00029)). arXiv:2507.00029 [cs.LG] [https://arxiv.org/abs/2507.00029](https://arxiv.org/abs/2507.00029)
