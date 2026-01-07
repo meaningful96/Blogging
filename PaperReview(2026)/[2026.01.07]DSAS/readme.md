@@ -1,1 +1,0 @@
-*Jiakai Li, Rongzheng Wang, Yizhuo Ma, Shuang Liang, Guangchun Luo, and Ke Qin.2025*. [DSAS: A Universal Plug-and-Play Framework for Attention Optimizationin Multi-Document Question Answering](https://arxiv.org/abs/2510.12251) (NeurIPS, 2025)
