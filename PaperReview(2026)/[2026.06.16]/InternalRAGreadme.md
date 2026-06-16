@@ -1,1 +1,0 @@
-*Samuel Yeh and Sharon Li*. 2026. **[How Retrieved Context Shapes Internal Representations in RAG](https://arxiv.org/abs/2602.20091v1)**. In Findings of the Association for Computational Linguistics: ACL 2026. Association for Computational Linguistics.
