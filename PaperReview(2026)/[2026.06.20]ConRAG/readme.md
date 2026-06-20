@@ -1,0 +1,1 @@
+*Yikai Zhu, Kunfeng Chen, Qihuang Zhong, Juhua Liu, and Bo Du. 2026*. [**ConRAG: Consensus-Driven Multi-View Retrieval for Multi-Hop Question Answering**](https://arxiv.org/abs/2605.28093). arXiv:2605.28093 [cs.CL]
