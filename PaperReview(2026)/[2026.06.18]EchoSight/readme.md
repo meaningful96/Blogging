@@ -1,0 +1,1 @@
+*Yibin Yan and Weidi Xie*. 2024. [**EchoSight: Advancing Visual-Language Models with Wiki Knowledge**](https://aclanthology.org/2024.findings-emnlp.83/). In Findings of the Association for Computational Linguistics: EMNLP 2024, Yaser Al-Onaizan, Mohit Bansal, and Yun-Nung Chen (Eds.). Association for Computational Linguistics, Miami, Florida, USA, 1538–1551.
