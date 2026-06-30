@@ -1,0 +1,1 @@
+*I-Hsiang Chen, Yu-Wei Liu, Tse-Yu Wu, Yu-Chien Chiang, Jen-Chien Yang, and Wei-Ting Chen*. 2026. [**RobustVisRAG: Causality-Aware Vision-Based Retrieval-Augmented Generation under Visual Degradations**](https://arxiv.org/abs/2602.22013)
