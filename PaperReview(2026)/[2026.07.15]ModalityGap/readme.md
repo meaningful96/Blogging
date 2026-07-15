@@ -1,0 +1,1 @@
+*Kaiser Sun, Xiaochuang Yuan, Hongjun Liu, Chen Zhao, Cheng Zhang, Mark Dredze, and Fan Bai*. 2026. [**Reading, Not Thinking: Understanding and Bridging the Modality Gap When Text Becomes Pixels in Multimodal LLMs**](https://arxiv.org/abs/2603.09095). arXiv:2603.09095 [cs.CL]
