@@ -1,0 +1,1 @@
+*Shojiro Yamabe, Futa Waseda, Daiki Shiono, and Tsubasa Takahashi*. 2025. [**Text-Printed Image: Bridging the Image-Text Modality Gap for Text-centric Training of Large Vision-Language Models**](https://arxiv.org/abs/2512.03463). arXiv:2512.03463 [cs.CV]
