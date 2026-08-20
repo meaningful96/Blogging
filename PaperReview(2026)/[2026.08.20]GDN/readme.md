@@ -1,0 +1,1 @@
+*Songlin Yang, Jan Kautz, and Ali Hatamizadeh*. 2025. [**Gated delta networks: Improving mamba2 with delta rule**](https://arxiv.org/abs/2412.06464). In International Conference on Learning Representations, Vol. 2025. 29687–29707.
